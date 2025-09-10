@@ -1,6 +1,23 @@
 # Physics-Informed-Neural-Network-for-ADR-transport-equation
 This repository provides a code for solving 1D Linear Advection–Diffusion–Reaction (ADR) transport equation using Physics-Informed Neural Networks (PINNs).
 
+## Dependencies
+
+The code is implemented in **Python 3.9+** and requires the following libraries:
+
+- `numpy`
+- `torch`
+- `matplotlib`
+- `scipy`
+- `pyDOE`
+- `typing` (standard library in Python 3.5+, no need to install separately)
+
+You can install all dependencies with:
+
+```bash
+pip install -r requirements.txt
+
+
 ## References
 
 For more information on Physics-Informed Neural Networks (PINNs), please refer to the following resources:
