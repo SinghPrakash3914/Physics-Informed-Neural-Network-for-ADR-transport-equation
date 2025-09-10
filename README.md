@@ -8,7 +8,6 @@ The code is implemented in **Python 3.9+** and requires the following libraries:
 - `numpy`
 - `torch`
 - `matplotlib`
-- `scipy`
 - `pyDOE`
 - `typing` (standard library in Python 3.5+, no need to install separately)
 
